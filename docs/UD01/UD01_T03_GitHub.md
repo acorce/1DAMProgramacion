@@ -6,8 +6,10 @@ GitHub es una plataforma en la nube basada en Git que permite a los desarrollado
 
 Crear una cuenta es esencial para quien aprende o busca trabajar en programación porque: sirve como tu currículum técnico, donde muestras tus proyectos y evolución; te permite colaborar en proyectos open source para ganar experiencia real; y es una herramienta fundamental para el control de versiones y trabajo en equipo, usada por prácticamente todas las empresas tech.
 
-## Crea tu cuenta
+##🧑‍💻 Crea tu cuenta
 
++ > 💡 Consejo: Si ya tienes cuenta en GitHub, puedes usarla sin necesidad de crear una nueva.
+  
 Accede a la plataforma GitHub: https://github.com/
 
 Pulsa sobre el botón [Sign Up] y sigue las instrucciones para crear tu cuenta.
@@ -38,11 +40,11 @@ Ahora debes explicar cual ha sido la modificación que hemos realizado y pulsar 
 
 ![propose changes](assets/GH_05.png)
 
-Todavía no hemos terminado! ahora hay que comunciar los cambios propuestos en nuestro Fork al propietario del repositorio, para que los visualice y valore si los quiere incluir en la página de documentación. Para ello debemos pulsar el botón [Create pull request]:
+Todavía no hemos terminado! ahora hay que **comunciar los cambios propuestos en nuestro Fork al propietario del repositorio**, para que los visualice y valore si los quiere incluir en la página de documentación. Para ello debemos pulsar el botón [Create pull request]:
 
 ![Create pull request](assets/GH_06.png)
 
-Ahora podemos modificar el mensaje (pero no hace falta), directamente pulsamos sobre el botón [Create pull request]:
+Puedes modificar el mensaje si lo deseas, aunque no es necesario. Después pulsa el botón [Create pull request]:
 
 ![Create pull request 2](assets/GH_07.png)
 
@@ -68,10 +70,10 @@ En este caso concreto se ha aceptado la modificación:
 
 ## Tarea
 
-Crea un documento `.pdf` donde debes adjuntar la captura de tu perfil de github.
+**Crea un documento `.pdf`** donde debes adjuntar la **captura de tu perfil de GitHub.**
 
 Añade una **captura** de pantalla donde se vea que has solicitado el **pull request** y que estás esperando a que se integre en el repositorio original. 
 
 Además, **explica** que significan cada uno de los **4 apartados** señalados en la captura.
 
-Adjunta el documento `.pdf` con las capturas y las explicaciones a la tarea de AULES
+**Adjunta el documento `.pdf`** con las **capturas y las explicaciones** a la tarea de AULES
